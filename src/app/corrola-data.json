@@ -1,0 +1,5732 @@
+[
+  {
+    "date": "08/13/1998",
+    "gasStation": "Merit",
+    "costPerGallon": "$0.89",
+    "total": "$10.50",
+    "milage": 240,
+    "manualMPG": "",
+    "tripA": "--",
+    "totalGas": 11.9
+  },
+  {
+    "date": "08/29/1998",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.00",
+    "total": "$11.00",
+    "milage": 540,
+    "manualMPG": 27.3,
+    "tripA": "--",
+    "totalGas": 11.01
+  },
+  {
+    "date": "09/09/1998",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.00",
+    "total": "$10.50",
+    "milage": 825,
+    "manualMPG": 27.1,
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "09/19/1998",
+    "gasStation": "Texaco",
+    "costPerGallon": "$0.99",
+    "total": "$11.00",
+    "milage": "1,115",
+    "manualMPG": 26.1,
+    "tripA": "--",
+    "totalGas": 11.1
+  },
+  {
+    "date": "09/26/1998",
+    "gasStation": "Texaco",
+    "costPerGallon": "$0.99",
+    "total": "$11.00",
+    "milage": "1,400",
+    "manualMPG": 25.7,
+    "tripA": "--",
+    "totalGas": 11.1
+  },
+  {
+    "date": "10/09/1998",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.00",
+    "total": "$11.25",
+    "milage": "1,700",
+    "manualMPG": 26.1,
+    "tripA": "--",
+    "totalGas": 11.5
+  },
+  {
+    "date": "10/21/1998",
+    "gasStation": "Atlatic",
+    "costPerGallon": "$0.97",
+    "total": "$10.25",
+    "milage": "1,975",
+    "manualMPG": 25.9,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "10/24/1998",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.00",
+    "total": "$3.50",
+    "milage": "2,045",
+    "manualMPG": 20,
+    "tripA": "--",
+    "totalGas": 3.5
+  },
+  {
+    "date": "10/26/1998",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.00",
+    "total": "$9.20",
+    "milage": "2,365",
+    "manualMPG": 34.8,
+    "tripA": "--",
+    "totalGas": 9.2
+  },
+  {
+    "date": "11/06/1998",
+    "gasStation": "Texaco",
+    "costPerGallon": "$0.97",
+    "total": "$9.20",
+    "milage": "2,622",
+    "manualMPG": 27.1,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "11/08/1998",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.99",
+    "total": "$10.00",
+    "milage": "2,962",
+    "manualMPG": 33.3,
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "11/20/1998",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.97",
+    "total": "$11.00",
+    "milage": "3,275",
+    "manualMPG": 27.7,
+    "tripA": "--",
+    "totalGas": 11.35
+  },
+  {
+    "date": "12/04/1998",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.94",
+    "total": "$10.41",
+    "milage": "3,550",
+    "manualMPG": 25,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "12/15/1998",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.93",
+    "total": "$9.20",
+    "milage": "3,810",
+    "manualMPG": 26.2,
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "12/26/1998",
+    "gasStation": "Texaco",
+    "costPerGallon": "$0.94",
+    "total": "$10.50",
+    "milage": "4,077",
+    "manualMPG": 23.8,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "01/06/1999",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.93",
+    "total": "$8.00",
+    "milage": "4,302",
+    "manualMPG": 26.1,
+    "tripA": "--",
+    "totalGas": 8.6
+  },
+  {
+    "date": "1/18//1998",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.93",
+    "total": "$9.25",
+    "milage": "4,528",
+    "manualMPG": 22.6,
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "01/30/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$0.88",
+    "total": "$9.65",
+    "milage": "4,778",
+    "manualMPG": 23.4,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "02/12/1999",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.87",
+    "total": "$8.75",
+    "milage": "5,050",
+    "manualMPG": 26.9,
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "02/24/1999",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.87",
+    "total": "$9.25",
+    "milage": "5,310",
+    "manualMPG": 24.5,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "03/01/1999",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.87",
+    "total": "$8.00",
+    "milage": "5,595",
+    "manualMPG": 31,
+    "tripA": "--",
+    "totalGas": 9.2
+  },
+  {
+    "date": "03/10/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$0.87",
+    "total": "$9.60",
+    "milage": "5,881",
+    "manualMPG": 26,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "03/20/1999",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$0.94",
+    "total": "$8.10",
+    "milage": "6,130",
+    "manualMPG": 29,
+    "tripA": "--",
+    "totalGas": 8.6
+  },
+  {
+    "date": "04/09/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.02",
+    "total": "$11.25",
+    "milage": "6,405",
+    "manualMPG": 25,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "04/22/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.04",
+    "total": "$10.50",
+    "milage": "6,675",
+    "manualMPG": 27,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "05/01/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.07",
+    "total": "$12.00",
+    "milage": "6,977",
+    "manualMPG": 27,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "05/13/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.09",
+    "total": "$11.25",
+    "milage": "7,267",
+    "manualMPG": 28.1,
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "05/23/1999",
+    "gasStation": "Exon",
+    "costPerGallon": "$1.04",
+    "total": "$9.40",
+    "milage": "7,540",
+    "manualMPG": 30.3,
+    "tripA": "--",
+    "totalGas": 9
+  },
+  {
+    "date": "05/30/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.08",
+    "total": "$11.25",
+    "milage": "7,827",
+    "manualMPG": 27.6,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "06/18/1999",
+    "gasStation": "Shell",
+    "costPerGallon": "$1.01",
+    "total": "$8.75",
+    "milage": "--",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.4
+  },
+  {
+    "date": "07/05/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.08",
+    "total": "$12.10",
+    "milage": "8,350",
+    "manualMPG": 26.7,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "07/11/1999",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.02",
+    "total": "$7.80",
+    "milage": "8,550",
+    "manualMPG": 26.3,
+    "tripA": "--",
+    "totalGas": 7.6
+  },
+  {
+    "date": "07/23/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.12",
+    "total": "$12.80",
+    "milage": "8,823",
+    "manualMPG": 23.9,
+    "tripA": "--",
+    "totalGas": 11.435
+  },
+  {
+    "date": "07/30/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.13",
+    "total": "$12.65",
+    "milage": "9,192",
+    "manualMPG": 32.9,
+    "tripA": "--",
+    "totalGas": 12.203
+  },
+  {
+    "date": "08/12/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.12",
+    "total": "$8.00",
+    "milage": "9,450",
+    "manualMPG": 36.3,
+    "tripA": "--",
+    "totalGas": 7.14
+  },
+  {
+    "date": "08/21/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "--",
+    "total": "$13.50",
+    "milage": "9,670",
+    "manualMPG": 19.6,
+    "tripA": "--",
+    "totalGas": 11.3
+  },
+  {
+    "date": "09/03/1999",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.20",
+    "total": "$12.50",
+    "milage": "9,940",
+    "manualMPG": 26,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "09/15/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.22",
+    "total": "$13.25",
+    "milage": "10,202",
+    "manualMPG": 24,
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "09/25/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.24",
+    "total": "$13.00",
+    "milage": "10,465",
+    "manualMPG": 25,
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "10/05/1999",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.30",
+    "total": "$13.60",
+    "milage": "10,735",
+    "manualMPG": 25.7,
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "10/13/1999",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.27",
+    "total": "$10.61",
+    "milage": "10,960",
+    "manualMPG": 26.8,
+    "tripA": "--",
+    "totalGas": 8.4
+  },
+  {
+    "date": "10/18/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.26",
+    "total": "$14.05",
+    "milage": "11,288",
+    "manualMPG": 29.3,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "10/30/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.26",
+    "total": "$13.55",
+    "milage": "11,576",
+    "manualMPG": 26.7,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "11/05/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.22",
+    "total": "$13.50",
+    "milage": "11,923",
+    "manualMPG": 31.5,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "11/18/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.26",
+    "total": "$14.50",
+    "milage": "12,233",
+    "manualMPG": 27,
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "12/03/1999",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.26",
+    "total": "$13.00",
+    "milage": "12,525",
+    "manualMPG": 28.3,
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "12/14/1999",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.30",
+    "total": "$14.00",
+    "milage": "12,775",
+    "manualMPG": 23.1,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "12/30/1999",
+    "gasStation": "Texaco",
+    "costPerGallon": 1.279,
+    "total": "$15.00",
+    "milage": "13,065",
+    "manualMPG": 24.8,
+    "tripA": "--",
+    "totalGas": 11.7
+  },
+  {
+    "date": "01/14/2000",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.34",
+    "total": "$14.01",
+    "milage": "13,350",
+    "manualMPG": 27.1,
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "01/22/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.29",
+    "total": "$9.00",
+    "milage": "13,483",
+    "manualMPG": 19.2,
+    "tripA": "--",
+    "totalGas": 6.9
+  },
+  {
+    "date": "01/31/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.30",
+    "total": "$13.15",
+    "milage": "13,756",
+    "manualMPG": 27,
+    "tripA": "--",
+    "totalGas": 10.12
+  },
+  {
+    "date": "02/10/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.33",
+    "total": "$12.50",
+    "milage": "13,975",
+    "manualMPG": 23,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "02/23/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.35",
+    "total": "$14.30",
+    "milage": "14,250",
+    "manualMPG": 25.9,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "03/08/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.49",
+    "total": "$16.50",
+    "milage": "14,525",
+    "manualMPG": 24.8,
+    "tripA": "--",
+    "totalGas": 11.1
+  },
+  {
+    "date": "03/24/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.52",
+    "total": "$13.65",
+    "milage": "14,755",
+    "manualMPG": 25.6,
+    "tripA": "--",
+    "totalGas": 9
+  },
+  {
+    "date": "04/03/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.50",
+    "total": "$15.75",
+    "milage": "15,045",
+    "manualMPG": 27.6,
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "04/13/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.48",
+    "total": "$11.10",
+    "milage": "15,235",
+    "manualMPG": 25.3,
+    "tripA": "--",
+    "totalGas": 7.5
+  },
+  {
+    "date": "04/26/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.46",
+    "total": "$15.15",
+    "milage": "15,495",
+    "manualMPG": 25,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "05/09/2000",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.50",
+    "total": "$15.15",
+    "milage": "15,770",
+    "manualMPG": 27.2,
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "05/19/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.47",
+    "total": "$15.90",
+    "milage": "16,020",
+    "manualMPG": 23.2,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "05/29/2000",
+    "gasStation": "Exon",
+    "costPerGallon": "$1.42",
+    "total": "$12.00",
+    "milage": "16,257",
+    "manualMPG": 28.2,
+    "tripA": "--",
+    "totalGas": 8.4
+  },
+  {
+    "date": "06/10/2000",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$15.70",
+    "milage": "16,530",
+    "manualMPG": 27,
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "06/23/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "--",
+    "total": "$17.10",
+    "milage": "16,807",
+    "manualMPG": 25.7,
+    "tripA": "--",
+    "totalGas": 10.761
+  },
+  {
+    "date": "07/15/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.60",
+    "total": "$17.65",
+    "milage": "17,095",
+    "manualMPG": 26.2,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "07/29/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.58",
+    "total": "$17.20",
+    "milage": "17,333",
+    "manualMPG": 26.4,
+    "tripA": "--",
+    "totalGas": 9
+  },
+  {
+    "date": "08/11/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.56",
+    "total": "$17.00",
+    "milage": "17,580",
+    "manualMPG": 22.7,
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "08/23/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.56",
+    "total": "$17.00",
+    "milage": "17,866",
+    "manualMPG": 26.2,
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "09/05/2000",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$14.50",
+    "milage": "18,100",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.4
+  },
+  {
+    "date": "09/16/2000",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$12.00",
+    "milage": "18,300",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 7.8
+  },
+  {
+    "date": "09/28/2000",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$18.00",
+    "milage": "18,617",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11.6
+  },
+  {
+    "date": "10/08/2000",
+    "gasStation": "Exon",
+    "costPerGallon": "$1.46",
+    "total": "--",
+    "milage": "18,825",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": "--"
+  },
+  {
+    "date": "10/19/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.56",
+    "total": "$15.00",
+    "milage": "19,125",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.747
+  },
+  {
+    "date": "10/29/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.52",
+    "total": "$15.15",
+    "milage": 19,
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "11/08/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.51",
+    "total": "$17.00",
+    "milage": "19,660",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11.3
+  },
+  {
+    "date": "11/17/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.46",
+    "total": "$16.25",
+    "milage": "19,935",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11.14
+  },
+  {
+    "date": "12/07/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.50",
+    "total": "$16.00",
+    "milage": "20,195",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "12/17/2000",
+    "gasStation": "Getty",
+    "costPerGallon": "$1.48",
+    "total": "$14.50",
+    "milage": "20,457",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9
+  },
+  {
+    "date": "12/29/2000",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.45",
+    "total": "$14.90",
+    "milage": "20,703",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "01/11/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.44",
+    "total": "$15.00",
+    "milage": "20,970",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "01/25/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.43",
+    "total": "$15.75",
+    "milage": "21,231",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "02/03/2001",
+    "gasStation": "Exxon",
+    "costPerGallon": "$1.35",
+    "total": "$11.57",
+    "milage": "21,459",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.6
+  },
+  {
+    "date": "02/15/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.40",
+    "total": "$14.75",
+    "milage": "21,720",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "03/05/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.40",
+    "total": "$12.60",
+    "milage": "21,935",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9
+  },
+  {
+    "date": "03/17/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.38",
+    "total": "$13.40",
+    "milage": "22,155",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "03/28/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.40",
+    "total": "$15.00",
+    "milage": "22,445",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "04/11/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.40",
+    "total": "$14.15",
+    "milage": "22,705",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "04/15/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.54",
+    "total": "$16.25",
+    "milage": "22,966",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "05/08/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.64",
+    "total": "$15.95",
+    "milage": "23,226",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "05/17/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.70",
+    "total": "$18.10",
+    "milage": "23,621",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "05/26/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.70",
+    "total": "$17.50",
+    "milage": "23,911",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "06/02/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.70",
+    "total": "$16.50",
+    "milage": "24,201",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "06/10/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.60",
+    "total": "$15.00",
+    "milage": "24,512",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.4
+  },
+  {
+    "date": "06/27/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.68",
+    "total": "$17.01",
+    "milage": "24,790",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "07/14/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.55",
+    "total": "$15.75",
+    "milage": "25,040",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "07/23/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.54",
+    "total": "$16.50",
+    "milage": "25,341",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "07/27/2001",
+    "gasStation": "Exxon",
+    "costPerGallon": "$1.34",
+    "total": "$13.25",
+    "milage": "25,691",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "08/07/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.46",
+    "total": "$15.80",
+    "milage": "26,045",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "08/18/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.40",
+    "total": "$12.75",
+    "milage": "26,277",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.1
+  },
+  {
+    "date": "08/24/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.40",
+    "total": "$14.15",
+    "milage": "26,645",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "09/05/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.40",
+    "total": "$15.00",
+    "milage": "26,911",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "09/14/2001",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.34",
+    "total": "$13.40",
+    "milage": "27,192",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "09/24/2001",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.36",
+    "total": "$14.45",
+    "milage": "27,470",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "10/04/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.33",
+    "total": "$14.50",
+    "milage": "27,750",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "10/14/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.20",
+    "total": "$10.06",
+    "milage": "27,960",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.3
+  },
+  {
+    "date": "10/22/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.24",
+    "total": "$13.00",
+    "milage": "28,260",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "11/01/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.14",
+    "total": "$12.00",
+    "milage": "28,514",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.533
+  },
+  {
+    "date": "11/07/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.14",
+    "total": "$12.50",
+    "milage": "28,874",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "11/19/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.10",
+    "total": "$10.99",
+    "milage": "29,144",
+    "manualMPG": 27,
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "11/30/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.04",
+    "total": "$11.10",
+    "milage": "29,423",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "12/12/2001",
+    "gasStation": "Amoco",
+    "costPerGallon": "--",
+    "total": "$9.75",
+    "milage": "29,672",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "12/20/2001",
+    "gasStation": "Texaco",
+    "costPerGallon": "$0.97",
+    "total": "$9.30",
+    "milage": "29,903",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.597
+  },
+  {
+    "date": "01/03/2002",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.00",
+    "total": "$10.10",
+    "milage": "30,166",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "01/15/2002",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.06",
+    "total": "$10.75",
+    "milage": "30,417",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "01/28/2002",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.06",
+    "total": "$11.00",
+    "milage": "30,656",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "02/08/2002",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.04",
+    "total": "$10.20",
+    "milage": "30,919",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "02/17/2002",
+    "gasStation": "Exxon",
+    "costPerGallon": "$1.02",
+    "total": "$10.00",
+    "milage": "31,172",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "02/28/2002",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.76",
+    "total": "$11.50",
+    "milage": "31,449",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "03/14/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.13",
+    "total": "$12.20",
+    "milage": "31,720",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "03/23/2002",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.30",
+    "total": "$12.20",
+    "milage": "31,975",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "04/03/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.33",
+    "total": "$13.20",
+    "milage": "32,248",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "04/13/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.38",
+    "total": "$15.30",
+    "milage": "32,550",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11.1
+  },
+  {
+    "date": "04/18/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.38",
+    "total": "$14.10",
+    "milage": "32,918",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "04/25/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.38",
+    "total": "$14.45",
+    "milage": "33,212",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "05/05/2002",
+    "gasStation": "Shell",
+    "costPerGallon": "$1.33",
+    "total": "$13.00",
+    "milage": "33,471",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "05/16/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.38",
+    "total": "$15.50",
+    "milage": "33,760",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "05/25/2002",
+    "gasStation": "Shell",
+    "costPerGallon": "$1.32",
+    "total": "$12.50",
+    "milage": "34,017",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "06/08/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.37",
+    "total": "$14.50",
+    "milage": "34,345",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "06/16/2002",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.26",
+    "total": "$13.25",
+    "milage": "34,602",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "06/24/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.34",
+    "total": "$8.50",
+    "milage": "34,772",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 6.3
+  },
+  {
+    "date": "07/03/2002",
+    "gasStation": "Hess",
+    "costPerGallon": "$1.24",
+    "total": "$13.14",
+    "milage": "35,056",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "07/14/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.32",
+    "total": "$12.92",
+    "milage": "35,304",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "07/27/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.38",
+    "total": "$15.00",
+    "milage": "35,585",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.88
+  },
+  {
+    "date": "08/06/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "--",
+    "total": "$13.50",
+    "milage": "35,825",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "08/28/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.37",
+    "total": "$14.50",
+    "milage": "36,090",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "09/10/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.36",
+    "total": "$14.25",
+    "milage": "36,342",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "09/20/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.35",
+    "total": "$13.55",
+    "milage": "36,593",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "10/03/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.35",
+    "total": "$12.15",
+    "milage": "37,063",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "10/22/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.38",
+    "total": "$14.15",
+    "milage": "37,595",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "11/03/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.39",
+    "total": "$13.50",
+    "milage": "37,826",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "11/07/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.42",
+    "total": "$14.75",
+    "milage": "38,180",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "11/18/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.43",
+    "total": "$15.00",
+    "milage": "38,435",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "11/26/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.42",
+    "total": "$13.90",
+    "milage": "38,650",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 7.1
+  },
+  {
+    "date": "12/01/2002",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.35",
+    "total": "$9.55",
+    "milage": "38,826",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 7.1
+  },
+  {
+    "date": "12/12/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.41",
+    "total": "$14.40",
+    "milage": "39,076",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "12/28/2002",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.44",
+    "total": "$14.10",
+    "milage": "39,301",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "01/07/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.46",
+    "total": "$15.00",
+    "milage": "39,558",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "01/20/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.46",
+    "total": "$15.00",
+    "milage": "39,793",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "01/27/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.46",
+    "total": "$14.60",
+    "milage": "40,080",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "02/06/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.53",
+    "total": "$15.50",
+    "milage": "40,322",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "02/15/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "--",
+    "total": "$10.80",
+    "milage": "40,485",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 6.75
+  },
+  {
+    "date": "02/26/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.62",
+    "total": "$17.00",
+    "milage": "40,750",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "03/12/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.64",
+    "total": "$17.30",
+    "milage": "41,015",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "03/26/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.65",
+    "total": "$17.60",
+    "milage": "41,299",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "04/05/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.65",
+    "total": "$17.51",
+    "milage": "41,599",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "04/23/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.60",
+    "total": "$15.50",
+    "milage": "41,867",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "05/04/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.46",
+    "total": "$15.15",
+    "milage": "42,140",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "05/16/2003",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.60",
+    "total": "$16.20",
+    "milage": "42,420",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "05/25/2003",
+    "gasStation": "Exxon",
+    "costPerGallon": "$1.38",
+    "total": "$12.00",
+    "milage": "42,680",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.7
+  },
+  {
+    "date": "06/03/2003",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.56",
+    "total": "$14.90",
+    "milage": "42,986",
+    "manualMPG": 32.1,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "06/13/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.52",
+    "total": "$15.20",
+    "milage": "43,264",
+    "manualMPG": 27.7,
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "06/15/2003",
+    "gasStation": "Mobil",
+    "costPerGallon": "$1.45",
+    "total": "$9.50",
+    "milage": "43,496",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 6.6
+  },
+  {
+    "date": "06/25/2003",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.54",
+    "total": "$15.65",
+    "milage": "43,815",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "07/03/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.50",
+    "total": "$15.50",
+    "milage": "44,105",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "07/14/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.50",
+    "total": "$16.75",
+    "milage": "44,415",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "08/05/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.54",
+    "total": "$15.80",
+    "milage": "44,675",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.26
+  },
+  {
+    "date": "08/10/2003",
+    "gasStation": "Shell",
+    "costPerGallon": "$1.49",
+    "total": "$12.70",
+    "milage": "44,928",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.5
+  },
+  {
+    "date": "08/19/2003",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$16.00",
+    "milage": "45,192",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "08/31/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.80",
+    "total": "$17.00",
+    "milage": "45,425",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "09/13/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.78",
+    "total": "$19.25",
+    "milage": "45,698",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "09/20/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.78",
+    "total": "$19.60",
+    "milage": "46,001",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "10/04/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.74",
+    "total": "$17.00",
+    "milage": "46,259",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "10/10/2003",
+    "gasStation": "Exxon",
+    "costPerGallon": "$1.60",
+    "total": "$12.80",
+    "milage": "46,495",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8
+  },
+  {
+    "date": "10/18/2003",
+    "gasStation": "Mobil",
+    "costPerGallon": "$1.74",
+    "total": "$3.00",
+    "milage": "46,818",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 1.39
+  },
+  {
+    "date": "--",
+    "gasStation": "Gulf",
+    "costPerGallon": "$1.66",
+    "total": "$17.70",
+    "milage": "46,892",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "10/29/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.66",
+    "total": "$16.00",
+    "milage": "47,437",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.6
+  },
+  {
+    "date": "11/04/2003",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.57",
+    "total": "$14.08",
+    "milage": "47,437",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.9
+  },
+  {
+    "date": "11/08/2003",
+    "gasStation": "Getty",
+    "costPerGallon": "$1.48",
+    "total": "$14.96",
+    "milage": "47,784",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "11/18/2003",
+    "gasStation": "Amoco",
+    "costPerGallon": "$1.65",
+    "total": "$15.51",
+    "milage": "48,030",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.4
+  },
+  {
+    "date": "11/26/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.56",
+    "total": "$14.25",
+    "milage": "48,248",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.1
+  },
+  {
+    "date": "12/03/2003",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$15.00",
+    "milage": "48,560",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "12/14/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.45",
+    "total": "$13.50",
+    "milage": "48,786",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.3
+  },
+  {
+    "date": "12/21/2003",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.43",
+    "total": "$14.45",
+    "milage": "49,098",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "01/08/2004",
+    "gasStation": "Mobil",
+    "costPerGallon": "$1.45",
+    "total": "$15.00",
+    "milage": "49,368",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.35
+  },
+  {
+    "date": "01/25/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.55",
+    "total": "$17.02",
+    "milage": "49,645",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.99
+  },
+  {
+    "date": "02/02/2004",
+    "gasStation": "Mobil",
+    "costPerGallon": "$1.62",
+    "total": "$16.19",
+    "milage": "49,907",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "02/13/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.63",
+    "total": "$16.45",
+    "milage": "50,162",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "02/25/2004",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$17.50",
+    "milage": "50,435",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "03/07/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.70",
+    "total": "$17.50",
+    "milage": "50,716",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "03/17/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.70",
+    "total": "$17.85",
+    "milage": "50,974",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "03/29/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.74",
+    "total": "$17.25",
+    "milage": "51,254",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "04/03/2004",
+    "gasStation": "Mobil",
+    "costPerGallon": "$1.64",
+    "total": "$8.70",
+    "milage": "51,405",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 5.3
+  },
+  {
+    "date": "04/13/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.74",
+    "total": "$18.00",
+    "milage": "51,704",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "04/24/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.75",
+    "total": "$18.13",
+    "milage": "51,964",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "04/28/2004",
+    "gasStation": "Hess",
+    "costPerGallon": "$1.68",
+    "total": "$12.99",
+    "milage": "52,185",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 7.7
+  },
+  {
+    "date": "05/07/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.85",
+    "total": "$19.60",
+    "milage": "52,470",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "05/14/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$2.00",
+    "total": "$20.30",
+    "milage": "52,771",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "05/22/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$2.05",
+    "total": "$22.66",
+    "milage": "53,091",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "06/02/2004",
+    "gasStation": "Amoco",
+    "costPerGallon": "$2.10",
+    "total": "$21.15",
+    "milage": "53,374",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "06/28/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.97",
+    "total": "$19.15",
+    "milage": "53,644",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "07/10/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.94",
+    "total": "$21.00",
+    "milage": "53,934",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "07/23/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.92",
+    "total": "$19.75",
+    "milage": "54,196",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "08/04/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.90",
+    "total": "$20.00",
+    "milage": "54,470",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "08/15/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.88",
+    "total": "$19.85",
+    "milage": "54,715",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "08/21/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.88",
+    "total": "$18.25",
+    "milage": "55,013",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "09/03/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.86",
+    "total": "$20.00",
+    "milage": "55,291",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "09/12/2004",
+    "gasStation": "Texaco",
+    "costPerGallon": "$1.80",
+    "total": "$18.70",
+    "milage": "55,584",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "09/22/2004",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.80",
+    "total": "$16.70",
+    "milage": "55,816",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.2
+  },
+  {
+    "date": "09/29/2004",
+    "gasStation": "Hess",
+    "costPerGallon": "$1.88",
+    "total": "$18.99",
+    "milage": "56,077",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "10/10/2004",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.93",
+    "total": "$20.90",
+    "milage": "56,358",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "10/21/2004",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.00",
+    "total": "$22.60",
+    "milage": "56,645",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11.3
+  },
+  {
+    "date": "11/08/2004",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.02",
+    "total": "$20.75",
+    "milage": "57,209",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "11/19/2004",
+    "gasStation": "Hess",
+    "costPerGallon": "$1.88",
+    "total": "$18.01",
+    "milage": "57,447",
+    "manualMPG": 24.8,
+    "tripA": "--",
+    "totalGas": 9.6
+  },
+  {
+    "date": "11/28/2004",
+    "gasStation": "Liberty",
+    "costPerGallon": "--",
+    "total": "$18.55",
+    "milage": "57,715",
+    "manualMPG": 28.6,
+    "tripA": "--",
+    "totalGas": 9.4
+  },
+  {
+    "date": "12/04/2004",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.96",
+    "total": "$20.75",
+    "milage": "58,043",
+    "manualMPG": 30.9,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "12/14/2004",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.90",
+    "total": "$18.75",
+    "milage": "58,295",
+    "manualMPG": 25.5,
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "12/24/2004",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.88",
+    "total": "$18.00",
+    "milage": "58,535",
+    "manualMPG": 25.3,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "01/06/2005",
+    "gasStation": "LIberty",
+    "costPerGallon": "$1.82",
+    "total": "$17.70",
+    "milage": "58,783",
+    "manualMPG": 25.6,
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "01/15/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.84",
+    "total": "$19.50",
+    "milage": "59,075",
+    "manualMPG": 27.5,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "01/28/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.90",
+    "total": "$18.25",
+    "milage": "59,318",
+    "manualMPG": 25.3,
+    "tripA": "--",
+    "totalGas": 9.6
+  },
+  {
+    "date": "02/07/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.94",
+    "total": "$19.70",
+    "milage": "59,576",
+    "manualMPG": 25.3,
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "02/17/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.92",
+    "total": "$19.10",
+    "milage": "59,824",
+    "manualMPG": 25.1,
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "02/20/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.92",
+    "total": "$19.00",
+    "milage": "60,132",
+    "manualMPG": 31.1,
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "02/27/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.92",
+    "total": "$19.01",
+    "milage": "60,417",
+    "manualMPG": 28.8,
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "03/09/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.98",
+    "total": "$17.70",
+    "milage": "60,631",
+    "manualMPG": 24,
+    "tripA": "--",
+    "totalGas": 8.9
+  },
+  {
+    "date": "03/13/2005",
+    "gasStation": "--",
+    "costPerGallon": "$2.00",
+    "total": "$19.00",
+    "milage": "60,967",
+    "manualMPG": 35.4,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "03/23/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.08",
+    "total": "$21.50",
+    "milage": "61,211",
+    "manualMPG": 23.7,
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "04/03/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.13",
+    "total": "$21.65",
+    "milage": "61,462",
+    "manualMPG": 24.9,
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "04/11/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.20",
+    "total": "$20.59",
+    "milage": "61,756",
+    "manualMPG": 30.9,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "04/19/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.20",
+    "total": "$23.75",
+    "milage": "62,062",
+    "manualMPG": 28.4,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "04/24/2005",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$16.25",
+    "milage": "62,312",
+    "manualMPG": 31.5,
+    "tripA": "--",
+    "totalGas": 7.9
+  },
+  {
+    "date": "05/04/2005",
+    "gasStation": "BP",
+    "costPerGallon": "$2.24",
+    "total": "$23.25",
+    "milage": "62,592",
+    "manualMPG": 26.9,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "05/12/2005",
+    "gasStation": "Exxon",
+    "costPerGallon": "$2.06",
+    "total": "$22.00",
+    "milage": "62,930",
+    "manualMPG": 31.6,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "05/22/2005",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$1.92",
+    "total": "$20.00",
+    "milage": "63,242",
+    "manualMPG": 30,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "05/25/2005",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.08",
+    "total": "$18.00",
+    "milage": "63,541",
+    "manualMPG": 34.8,
+    "tripA": "--",
+    "totalGas": 8.6
+  },
+  {
+    "date": "06/01/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.14",
+    "total": "$21.05",
+    "milage": "63,830",
+    "manualMPG": 29.5,
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "06/12/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.17",
+    "total": "$18.25",
+    "milage": "64,070",
+    "manualMPG": 28.6,
+    "tripA": "--",
+    "totalGas": 8.4
+  },
+  {
+    "date": "06/17/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.17",
+    "total": "$24.70",
+    "milage": "64,395",
+    "manualMPG": 28.5,
+    "tripA": "--",
+    "totalGas": 11.4
+  },
+  {
+    "date": "06/27/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.22",
+    "total": "$22.90",
+    "milage": "64,708",
+    "manualMPG": 30.4,
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "07/07/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.24",
+    "total": "$21.51",
+    "milage": "64,952",
+    "manualMPG": 26.8,
+    "tripA": "--",
+    "totalGas": 9.1
+  },
+  {
+    "date": "07/11/2005",
+    "gasStation": "Exxon",
+    "costPerGallon": "$2.31",
+    "total": "$18.00",
+    "milage": "65,214",
+    "manualMPG": 33.6,
+    "tripA": "--",
+    "totalGas": 7.8
+  },
+  {
+    "date": "07/19/2005",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.32",
+    "total": "$24.51",
+    "milage": "65,527",
+    "manualMPG": 29.8,
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "07/26/2005",
+    "gasStation": "LIberty",
+    "costPerGallon": "$2.37",
+    "total": "$25.10",
+    "milage": "65,867",
+    "manualMPG": 32,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "08/04/2005",
+    "gasStation": "LIberty",
+    "costPerGallon": "$2.37",
+    "total": "$21.85",
+    "milage": "66,103",
+    "manualMPG": 25.7,
+    "tripA": "--",
+    "totalGas": 9.2
+  },
+  {
+    "date": "08/12/2005",
+    "gasStation": "LIberty",
+    "costPerGallon": "$2.50",
+    "total": "$26.00",
+    "milage": "66,379",
+    "manualMPG": 26.5,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "08/20/2005",
+    "gasStation": "Delaware Amoco",
+    "costPerGallon": "$2.60",
+    "total": "$23.40",
+    "milage": "66,625",
+    "manualMPG": 27.3,
+    "tripA": "--",
+    "totalGas": 9
+  },
+  {
+    "date": "08/28/2005",
+    "gasStation": "LIberty",
+    "costPerGallon": "$2.64",
+    "total": "$28.10",
+    "milage": "66,930",
+    "manualMPG": 28.8,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "09/03/2005",
+    "gasStation": "LIberty",
+    "costPerGallon": "$3.36",
+    "total": "$28.00",
+    "milage": "67,190",
+    "manualMPG": 31.3,
+    "tripA": "--",
+    "totalGas": 8.3
+  },
+  {
+    "date": "09/10/2005",
+    "gasStation": "BP",
+    "costPerGallon": "$3.20",
+    "total": "$32.25",
+    "milage": "67,470",
+    "manualMPG": 27.7,
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "09/19/2005",
+    "gasStation": "Shell",
+    "costPerGallon": "$2.94",
+    "total": "$31.15",
+    "milage": "67,756",
+    "manualMPG": 27,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "09/30/2005",
+    "gasStation": "Shell",
+    "costPerGallon": "$2.90",
+    "total": "$28.80",
+    "milage": "68,006",
+    "manualMPG": 25.2,
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "10/08/2005",
+    "gasStation": "LIberty",
+    "costPerGallon": "$2.86",
+    "total": "$27.27",
+    "milage": "68,295",
+    "manualMPG": 30.4,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "10/10/2005",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.85",
+    "total": "$27.00",
+    "milage": "68,839",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "10/13/2005",
+    "gasStation": "Mobil",
+    "costPerGallon": "$2.80",
+    "total": "$27.00",
+    "milage": "69,139",
+    "manualMPG": 31.3,
+    "tripA": "--",
+    "totalGas": 9.6
+  },
+  {
+    "date": "10/22/2005",
+    "gasStation": "Hess",
+    "costPerGallon": "$2.46",
+    "total": "$26.40",
+    "milage": "69,465",
+    "manualMPG": 30.5,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "10/27/2005",
+    "gasStation": "Mobil",
+    "costPerGallon": "$2.50",
+    "total": "$25.75",
+    "milage": "69,780",
+    "manualMPG": 30.6,
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "10/31/2005",
+    "gasStation": "Shell",
+    "costPerGallon": "$2.30",
+    "total": "$21.85",
+    "milage": "70,077",
+    "manualMPG": 31.3,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "11/01/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.40",
+    "total": "$11.15",
+    "milage": "70,266",
+    "manualMPG": 41,
+    "tripA": "--",
+    "totalGas": 4.6
+  },
+  {
+    "date": "11/06/2005",
+    "gasStation": "Shell",
+    "costPerGallon": "$2.30",
+    "total": "$25.20",
+    "milage": "70,615",
+    "manualMPG": 31.7,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "11/13/2005",
+    "gasStation": "Shell",
+    "costPerGallon": "$2.20",
+    "total": "$23.23",
+    "milage": "70,918",
+    "manualMPG": 28.9,
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "11/18/2005",
+    "gasStation": "Texaco",
+    "costPerGallon": "$2.18",
+    "total": "$19.50",
+    "milage": "71,231",
+    "manualMPG": 34.8,
+    "tripA": "--",
+    "totalGas": 9
+  },
+  {
+    "date": "11/23/2005",
+    "gasStation": "Shell",
+    "costPerGallon": "$2.06",
+    "total": "$21.50",
+    "milage": "71,555",
+    "manualMPG": 31.2,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "12/01/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.12",
+    "total": "$22.90",
+    "milage": "71,887",
+    "manualMPG": 30.7,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "12/06/2005",
+    "gasStation": "Shell",
+    "costPerGallon": "$2.10",
+    "total": "$11.30",
+    "milage": "72,025",
+    "manualMPG": 25.6,
+    "tripA": "--",
+    "totalGas": 5.4
+  },
+  {
+    "date": "12/10/2005",
+    "gasStation": "Quick Cheek",
+    "costPerGallon": "$2.02",
+    "total": "$1,763.00",
+    "milage": "72,334",
+    "manualMPG": 35.5,
+    "tripA": "--",
+    "totalGas": 8.7
+  },
+  {
+    "date": "12/31/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.22",
+    "total": "$23.55",
+    "milage": "72,852",
+    "manualMPG": 29.8,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "01/08/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.35",
+    "total": "$23.00",
+    "milage": "73,144",
+    "manualMPG": 29.8,
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "01/19/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.39",
+    "total": "$24.70",
+    "milage": "73,412",
+    "manualMPG": 26,
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "01/29/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.39",
+    "total": "$21.51",
+    "milage": "73,662",
+    "manualMPG": 27.8,
+    "tripA": "--",
+    "totalGas": 9
+  },
+  {
+    "date": "02/07/2005",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.38",
+    "total": "$22.50",
+    "milage": "73,912",
+    "manualMPG": 26.3,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "02/19/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.30",
+    "total": "$22.90",
+    "milage": "74,170",
+    "manualMPG": 25.8,
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "02/25/2006",
+    "gasStation": "Turkey Hill",
+    "costPerGallon": "$2.18",
+    "total": "$20.25",
+    "milage": "74,482",
+    "manualMPG": 33.5,
+    "tripA": "--",
+    "totalGas": 9.3
+  },
+  {
+    "date": "03/02/2006",
+    "gasStation": "Amoco",
+    "costPerGallon": "$2.28",
+    "total": "$22.40",
+    "milage": "74,759",
+    "manualMPG": 28.3,
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "03/09/2006",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.11",
+    "total": "$17.50",
+    "milage": "74,999",
+    "manualMPG": 29.3,
+    "tripA": "--",
+    "totalGas": 8.2
+  },
+  {
+    "date": "03/10/2006",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.19",
+    "total": "$14.33",
+    "milage": "75,249",
+    "manualMPG": 37.9,
+    "tripA": "--",
+    "totalGas": 6.6
+  },
+  {
+    "date": "03/18/2006",
+    "gasStation": "Cigo",
+    "costPerGallon": "$2.44",
+    "total": "$24.90",
+    "milage": "75,558",
+    "manualMPG": 30.3,
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "03/24/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.42",
+    "total": "$26.00",
+    "milage": "75,889",
+    "manualMPG": 30.9,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "04/03/2006",
+    "gasStation": "Mobil",
+    "costPerGallon": "$2.50",
+    "total": "$24.75",
+    "milage": "76,197",
+    "manualMPG": 31.1,
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "04/08/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.59",
+    "total": "$20.00",
+    "milage": "76,445",
+    "manualMPG": 32.2,
+    "tripA": "--",
+    "totalGas": 7.7
+  },
+  {
+    "date": "04/10/2006",
+    "gasStation": "Hess",
+    "costPerGallon": "$2.48",
+    "total": "$22.50",
+    "milage": "76,765",
+    "manualMPG": 35.2,
+    "tripA": "--",
+    "totalGas": 9.1
+  },
+  {
+    "date": "04/17/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.78",
+    "total": "$27.15",
+    "milage": "77,113",
+    "manualMPG": 35.6,
+    "tripA": "--",
+    "totalGas": 9.77
+  },
+  {
+    "date": "04/22/2006",
+    "gasStation": "Texaco",
+    "costPerGallon": "$3.00",
+    "total": "$25.00",
+    "milage": "77,378",
+    "manualMPG": 31.9,
+    "tripA": "--",
+    "totalGas": 8.3
+  },
+  {
+    "date": "04/30/2006",
+    "gasStation": "US Gas",
+    "costPerGallon": "$2.97",
+    "total": "$25.01",
+    "milage": "77,617",
+    "manualMPG": 28.5,
+    "tripA": "--",
+    "totalGas": 8.4
+  },
+  {
+    "date": "05/08/2006",
+    "gasStation": "Mobil",
+    "costPerGallon": "$2.90",
+    "total": "$30.80",
+    "milage": "77,962",
+    "manualMPG": 32.6,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "05/09/2006",
+    "gasStation": "Getty",
+    "costPerGallon": "$2.80",
+    "total": "$16.00",
+    "milage": "78,231",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 5.7
+  },
+  {
+    "date": "05/12/2006",
+    "gasStation": "Mobil",
+    "costPerGallon": "$2.96",
+    "total": "$30.65",
+    "milage": "78,537",
+    "manualMPG": 35.9,
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "05/19/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.04",
+    "total": "$33.54",
+    "milage": "78,897",
+    "manualMPG": 32.7,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "05/24/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.00",
+    "total": "$25.70",
+    "milage": "79,180",
+    "manualMPG": 32.9,
+    "tripA": "--",
+    "totalGas": 8.6
+  },
+  {
+    "date": "05/28/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.98",
+    "total": "$33.10",
+    "milage": "79,552",
+    "manualMPG": 33.5,
+    "tripA": "--",
+    "totalGas": 11.1
+  },
+  {
+    "date": "06/08/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.98",
+    "total": "$33.10",
+    "milage": "79,810",
+    "manualMPG": 25.5,
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "06/18/2006",
+    "gasStation": "Lukoil",
+    "costPerGallon": "$2.90",
+    "total": "$24.76",
+    "milage": "80,057",
+    "manualMPG": 29.1,
+    "tripA": "--",
+    "totalGas": 8.5
+  },
+  {
+    "date": "06/28/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.00",
+    "total": "$30.25",
+    "milage": "80,319",
+    "manualMPG": 25.9,
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "--",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "--",
+    "milage": "--",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": "--"
+  },
+  {
+    "date": "--",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "--",
+    "milage": "--",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": "--"
+  },
+  {
+    "date": "07/23/2006",
+    "gasStation": "Lukoil",
+    "costPerGallon": "$3.16",
+    "total": "$34.50",
+    "milage": "80,928",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "08/06/2006",
+    "gasStation": "BP",
+    "costPerGallon": "$2.99",
+    "total": "$23.00",
+    "milage": "81,122",
+    "manualMPG": 25.2,
+    "tripA": "--",
+    "totalGas": 7.67
+  },
+  {
+    "date": "08/17/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.08",
+    "total": "$33.85",
+    "milage": "81,418",
+    "manualMPG": 26.9,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "08/30/2006",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.84",
+    "total": "$33.50",
+    "milage": "81,744",
+    "manualMPG": 27.4,
+    "tripA": "--",
+    "totalGas": 11.8
+  },
+  {
+    "date": "09/13/2006",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.55",
+    "total": "$28.50",
+    "milage": "82,035",
+    "manualMPG": 26,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "09/25/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.48",
+    "total": "$25.13",
+    "milage": "82,288",
+    "manualMPG": 25.1,
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "10/02/2006",
+    "gasStation": "Lukoil",
+    "costPerGallon": "$2.36",
+    "total": "$24.00",
+    "milage": "82,983",
+    "manualMPG": 31.8,
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "10/11/2006",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.18",
+    "total": "$16.00",
+    "milage": "83,246",
+    "manualMPG": 36,
+    "tripA": "--",
+    "totalGas": 7.3
+  },
+  {
+    "date": "10/16/2006",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.14",
+    "total": "$21.75",
+    "milage": "83,562",
+    "manualMPG": 31,
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "10/28/2006",
+    "gasStation": "Litzs",
+    "costPerGallon": "$2.21",
+    "total": "$24.15",
+    "milage": "83,842",
+    "manualMPG": 25.7,
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "11/10/2006",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.12",
+    "total": "$23.00",
+    "milage": "84,122",
+    "manualMPG": 25.9,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "11/28/2006",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.20",
+    "total": "$21.00",
+    "milage": "84,381",
+    "manualMPG": 27.3,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "12/04/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.30",
+    "total": "$15.25",
+    "milage": "84,541",
+    "manualMPG": 24.2,
+    "tripA": "--",
+    "totalGas": 6.6
+  },
+  {
+    "date": "12/06/2006",
+    "gasStation": "Hess",
+    "costPerGallon": "$2.15",
+    "total": "$20.50",
+    "milage": "84,877",
+    "manualMPG": 35.4,
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "12/19/2006",
+    "gasStation": "--",
+    "costPerGallon": "$2.46",
+    "total": "$5.00",
+    "milage": "85,207",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 2.04
+  },
+  {
+    "date": "12/22/2006",
+    "gasStation": "--",
+    "costPerGallon": "$2.37",
+    "total": "$27.60",
+    "milage": "85,255",
+    "manualMPG": 27.8,
+    "tripA": "--",
+    "totalGas": 11.649
+  },
+  {
+    "date": "01/13/2007",
+    "gasStation": "--",
+    "costPerGallon": "$2.37",
+    "total": "$25.85",
+    "milage": "85,560",
+    "manualMPG": 28,
+    "tripA": "--",
+    "totalGas": 10.99
+  },
+  {
+    "date": "01/27/2007",
+    "gasStation": "--",
+    "costPerGallon": "$2.29",
+    "total": "$25.00",
+    "milage": "85,836",
+    "manualMPG": 25.3,
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "02/06/2006",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.27",
+    "total": "$24.00",
+    "milage": "86,119",
+    "manualMPG": 26.7,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "02/21/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.36",
+    "total": "$26.65",
+    "milage": "86,400",
+    "manualMPG": 24.9,
+    "tripA": "--",
+    "totalGas": 11.3
+  },
+  {
+    "date": "05/04/2007",
+    "gasStation": "--",
+    "costPerGallon": "$2.97",
+    "total": "$20.03",
+    "milage": "86,575",
+    "manualMPG": 26.1,
+    "tripA": "--",
+    "totalGas": 6.7
+  },
+  {
+    "date": "05/17/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.99",
+    "total": "$25.35",
+    "milage": "86,925",
+    "manualMPG": 41.2,
+    "tripA": "--",
+    "totalGas": 8.5
+  },
+  {
+    "date": "05/27/2007",
+    "gasStation": "--",
+    "costPerGallon": "$3.13",
+    "total": "$32.50",
+    "milage": "87,134",
+    "manualMPG": 20.1,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "06/03/2007",
+    "gasStation": "--",
+    "costPerGallon": "$2.86",
+    "total": "$19.10",
+    "milage": "87,313",
+    "manualMPG": 26.7,
+    "tripA": "--",
+    "totalGas": 6.7
+  },
+  {
+    "date": "06/08/2007",
+    "gasStation": "--",
+    "costPerGallon": "$3.06",
+    "total": "$33.00",
+    "milage": "87,647",
+    "manualMPG": 30.9,
+    "tripA": "--",
+    "totalGas": 10.788
+  },
+  {
+    "date": "07/01/2007",
+    "gasStation": "--",
+    "costPerGallon": "$2.92",
+    "total": "$33.25",
+    "milage": "87,964",
+    "manualMPG": 27.8,
+    "tripA": "--",
+    "totalGas": 11.4
+  },
+  {
+    "date": "07/17/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.86",
+    "total": "$31.25",
+    "milage": "88,503",
+    "manualMPG": 22.4,
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "08/14/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.76",
+    "total": "$32.00",
+    "milage": "88,777",
+    "manualMPG": 23.6,
+    "tripA": "--",
+    "totalGas": 11.6
+  },
+  {
+    "date": "08/25/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.68",
+    "total": "$31.51",
+    "milage": "89,082",
+    "manualMPG": 26.8,
+    "tripA": "--",
+    "totalGas": 11.387
+  },
+  {
+    "date": "09/05/2007",
+    "gasStation": "Getty",
+    "costPerGallon": "$2.62",
+    "total": "$28.54",
+    "milage": "89,360",
+    "manualMPG": 25.5,
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "09/19/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.68",
+    "total": "$30.20",
+    "milage": "89,631",
+    "manualMPG": 24,
+    "tripA": "--",
+    "totalGas": 11.3
+  },
+  {
+    "date": "10/01/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.72",
+    "total": "$24.13",
+    "milage": "89,859",
+    "manualMPG": 25.6,
+    "tripA": "--",
+    "totalGas": 8.9
+  },
+  {
+    "date": "10/11/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.72",
+    "total": "$29.75",
+    "milage": "90,152",
+    "manualMPG": 26.9,
+    "tripA": "--",
+    "totalGas": 10.9
+  },
+  {
+    "date": "10/29/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.84",
+    "total": "$21.00",
+    "milage": "90,436",
+    "manualMPG": 38.4,
+    "tripA": "--",
+    "totalGas": 7.4
+  },
+  {
+    "date": "11/12/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.06",
+    "total": "$36.30",
+    "milage": "90,624",
+    "manualMPG": 15.8,
+    "tripA": "--",
+    "totalGas": 11.9
+  },
+  {
+    "date": "11/22/2007",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.94",
+    "total": "$19.00",
+    "milage": "90,801",
+    "manualMPG": 27.2,
+    "tripA": "--",
+    "totalGas": 6.5
+  },
+  {
+    "date": "12/04/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.08",
+    "total": "$33.90",
+    "milage": "91,131",
+    "manualMPG": 30,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "12/12/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.06",
+    "total": "$32.85",
+    "milage": "91,317",
+    "manualMPG": 23,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "12/27/2007",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.08",
+    "total": "$33.25",
+    "milage": "91,681",
+    "manualMPG": 28.2,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "01/07/2008",
+    "gasStation": "Lukoil",
+    "costPerGallon": "$3.06",
+    "total": "$20.00",
+    "milage": "91,994",
+    "manualMPG": "Not full",
+    "tripA": "--",
+    "totalGas": 6.5
+  },
+  {
+    "date": "01/16/2008",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.08",
+    "total": "$32.75",
+    "milage": "92,165",
+    "manualMPG": 28.3,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "01/30/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.00",
+    "total": "$34.00",
+    "milage": "92,439",
+    "manualMPG": 24.3,
+    "tripA": "--",
+    "totalGas": 11.3
+  },
+  {
+    "date": "02/13/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.00",
+    "total": "$33.61",
+    "milage": "92,718",
+    "manualMPG": 24.6,
+    "tripA": "--",
+    "totalGas": 11.17
+  },
+  {
+    "date": "02/26/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.10",
+    "total": "$35.60",
+    "milage": "93,009",
+    "manualMPG": 25.7,
+    "tripA": "--",
+    "totalGas": 11.5
+  },
+  {
+    "date": "03/05/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.18",
+    "total": "$33.85",
+    "milage": "93,331",
+    "manualMPG": 30.4,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "03/21/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.20",
+    "total": "$37.00",
+    "milage": "93,614",
+    "manualMPG": 24.5,
+    "tripA": "--",
+    "totalGas": 11.566
+  },
+  {
+    "date": "04/07/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.20",
+    "total": "$34.00",
+    "milage": "93,887",
+    "manualMPG": 25.8,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "04/21/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.48",
+    "total": "$39.25",
+    "milage": "94,211",
+    "manualMPG": 28.7,
+    "tripA": "--",
+    "totalGas": 11.3
+  },
+  {
+    "date": "05/06/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.60",
+    "total": "$37.15",
+    "milage": "94,486",
+    "manualMPG": 26.7,
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "05/21/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.81",
+    "total": "$40.00",
+    "milage": "94,770",
+    "manualMPG": 27.1,
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "06/01/2008",
+    "gasStation": "--",
+    "costPerGallon": "$4.05",
+    "total": "$46.50",
+    "milage": "95,105",
+    "manualMPG": 29.1,
+    "tripA": "--",
+    "totalGas": 11.5
+  },
+  {
+    "date": "06/26/2008",
+    "gasStation": "--",
+    "costPerGallon": "$4.10",
+    "total": "$20.00",
+    "milage": "95,396",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 4.9
+  },
+  {
+    "date": "07/04/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.86",
+    "total": "$30.00",
+    "milage": "95,485",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 7.8
+  },
+  {
+    "date": "07/16/2008",
+    "gasStation": "--",
+    "costPerGallon": "$4.10",
+    "total": "$40.00",
+    "milage": "95,732",
+    "manualMPG": 28,
+    "tripA": "--",
+    "totalGas": 8.8
+  },
+  {
+    "date": "07/31/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.80",
+    "total": "$40.00",
+    "milage": "95,983",
+    "manualMPG": 23.6,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "08/18/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.65",
+    "total": "$39.50",
+    "milage": "96,246",
+    "manualMPG": 24.4,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "09/04/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.53",
+    "total": "$41.74",
+    "milage": "96,550",
+    "manualMPG": 25.8,
+    "tripA": "--",
+    "totalGas": 11.8
+  },
+  {
+    "date": "09/22/2008",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$38.75",
+    "milage": "96,821",
+    "manualMPG": 25.3,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "9/30/0208",
+    "gasStation": "RY, NJ",
+    "costPerGallon": "$3.30",
+    "total": "$25.00",
+    "milage": "--",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 7.6
+  },
+  {
+    "date": "10/12/2008",
+    "gasStation": "--",
+    "costPerGallon": "$3.17",
+    "total": "$34.74",
+    "milage": "97,344",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "10/28/2008",
+    "gasStation": "--",
+    "costPerGallon": "$2.63",
+    "total": "$30.01",
+    "milage": "97,640",
+    "manualMPG": 26.9,
+    "tripA": "--",
+    "totalGas": 11.4
+  },
+  {
+    "date": "11/16/2008",
+    "gasStation": "--",
+    "costPerGallon": "$2.23",
+    "total": "$25.25",
+    "milage": "97,923",
+    "manualMPG": 25,
+    "tripA": "--",
+    "totalGas": 11.3
+  },
+  {
+    "date": "12/04/2008",
+    "gasStation": "--",
+    "costPerGallon": "$1.85",
+    "total": "$20.50",
+    "milage": "98,186",
+    "manualMPG": 23.7,
+    "tripA": "--",
+    "totalGas": 11.1
+  },
+  {
+    "date": "12/15/2008",
+    "gasStation": "Hess",
+    "costPerGallon": "$1.58",
+    "total": "$11.12",
+    "milage": "98,379",
+    "manualMPG": 26.1,
+    "tripA": "--",
+    "totalGas": 7.4
+  },
+  {
+    "date": "01/11/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.69",
+    "total": "$18.90",
+    "milage": "98,662",
+    "manualMPG": 25.3,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "01/27/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.85",
+    "total": "$19.85",
+    "milage": "98,931",
+    "manualMPG": 25.1,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "02/16/2008",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.93",
+    "total": "$21.25",
+    "milage": "99,208",
+    "manualMPG": 25.3,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "03/04/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.95",
+    "total": "$21.45",
+    "milage": "99,506",
+    "manualMPG": 27.1,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "03/14/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.95",
+    "total": "$15.45",
+    "milage": "99,728",
+    "manualMPG": 28,
+    "tripA": "--",
+    "totalGas": 7.9
+  },
+  {
+    "date": "03/23/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.95",
+    "total": "$21.59",
+    "milage": "100,096",
+    "manualMPG": 33.2,
+    "tripA": "--",
+    "totalGas": 11.1
+  },
+  {
+    "date": "04/05/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.99",
+    "total": "$21.25",
+    "milage": "100,427",
+    "manualMPG": 300.9,
+    "tripA": "--",
+    "totalGas": 100.7
+  },
+  {
+    "date": "04/18/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.06",
+    "total": "$20.60",
+    "milage": "100,677",
+    "manualMPG": 25,
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "05/01/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.09",
+    "total": "$21.65",
+    "milage": "100,971",
+    "manualMPG": 28.3,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "05/11/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.27",
+    "total": "$25.35",
+    "milage": "101,294",
+    "manualMPG": 28.8,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "05/21/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.45",
+    "total": "$25.90",
+    "milage": "101,575",
+    "manualMPG": 26.5,
+    "tripA": "--",
+    "totalGas": 10.6
+  },
+  {
+    "date": "07/14/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.56",
+    "total": "$27.50",
+    "milage": "102,497",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "08/01/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.53",
+    "total": "$28.40",
+    "milage": "102,777",
+    "manualMPG": 25,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "08/12/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.67",
+    "total": "$28.90",
+    "milage": "103,071",
+    "manualMPG": 27.2,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "08/27/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.67",
+    "total": "$30.00",
+    "milage": "103,337",
+    "manualMPG": 23.8,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "09/04/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.67",
+    "total": "$30.50",
+    "milage": "103,705",
+    "manualMPG": 32.8,
+    "tripA": "--",
+    "totalGas": 11.4
+  },
+  {
+    "date": "09/21/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.55",
+    "total": "$28.25",
+    "milage": "103,990",
+    "manualMPG": 25.7,
+    "tripA": "--",
+    "totalGas": 11.1
+  },
+  {
+    "date": "10/06/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.43",
+    "total": "$26.25",
+    "milage": "104,250",
+    "manualMPG": 24.1,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "10/18/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.49",
+    "total": "$26.60",
+    "milage": "104,572",
+    "manualMPG": 30.1,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "11/04/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.71",
+    "total": "$31.00",
+    "milage": "104,862",
+    "manualMPG": 25.4,
+    "tripA": "--",
+    "totalGas": 11.4
+  },
+  {
+    "date": "11/17/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.71",
+    "total": "$31.01",
+    "milage": "105,207",
+    "manualMPG": 30.3,
+    "tripA": "--",
+    "totalGas": 11.4
+  },
+  {
+    "date": "12/05/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.63",
+    "total": "$30.00",
+    "milage": "105,487",
+    "manualMPG": 24.6,
+    "tripA": "--",
+    "totalGas": 11.4
+  },
+  {
+    "date": "12/10/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.63",
+    "total": "$26.95",
+    "milage": "105,800",
+    "manualMPG": 30.5,
+    "tripA": "--",
+    "totalGas": 10.25
+  },
+  {
+    "date": "12/28/2009",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.63",
+    "total": "$28.20",
+    "milage": "106,031",
+    "manualMPG": 21.6,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "01/20/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.82",
+    "total": "$32.40",
+    "milage": "106,314",
+    "manualMPG": 24.6,
+    "tripA": "--",
+    "totalGas": 11.5
+  },
+  {
+    "date": "02/04/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.73",
+    "total": "$30.10",
+    "milage": "106,610",
+    "manualMPG": 26.2,
+    "tripA": "--",
+    "totalGas": 11.3
+  },
+  {
+    "date": "02/11/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.73",
+    "total": "$25.27",
+    "milage": "106,899",
+    "manualMPG": 31.2,
+    "tripA": "--",
+    "totalGas": 9.25
+  },
+  {
+    "date": "02/20/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.66",
+    "total": "$28.61",
+    "milage": "107,186",
+    "manualMPG": 26.7,
+    "tripA": "--",
+    "totalGas": 10.75
+  },
+  {
+    "date": "03/04/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.72",
+    "total": "$29.88",
+    "milage": "107,498",
+    "manualMPG": 28.4,
+    "tripA": "--",
+    "totalGas": 10.99
+  },
+  {
+    "date": "03/16/2010",
+    "gasStation": "Cigo",
+    "costPerGallon": "$2.77",
+    "total": "$24.00",
+    "milage": "107,797",
+    "manualMPG": 34.4,
+    "tripA": "--",
+    "totalGas": 8.7
+  },
+  {
+    "date": "03/26/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.80",
+    "total": "$30.04",
+    "milage": "108,066",
+    "manualMPG": 25.1,
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "04/12/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.83",
+    "total": "$2,775.00",
+    "milage": "108,306",
+    "manualMPG": 24.5,
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "04/28/2010",
+    "gasStation": "Wawa",
+    "costPerGallon": "$2.84",
+    "total": "$31.75",
+    "milage": "108,616",
+    "manualMPG": 27.7,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "05/16/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.97",
+    "total": "$32.80",
+    "milage": "108,895",
+    "manualMPG": 25.4,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "06/01/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.80",
+    "total": "$31.25",
+    "milage": "109,235",
+    "manualMPG": 30.4,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "06/22/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.73",
+    "total": "$30.00",
+    "milage": "109,505",
+    "manualMPG": 24.6,
+    "tripA": "--",
+    "totalGas": 11
+  },
+  {
+    "date": "07/13/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.69",
+    "total": "$30.01",
+    "milage": "109,815",
+    "manualMPG": 27.7,
+    "tripA": "--",
+    "totalGas": 11.2
+  },
+  {
+    "date": "07/28/2010",
+    "gasStation": "US Gas",
+    "costPerGallon": "$2.66",
+    "total": "$28.02",
+    "milage": "110,080",
+    "manualMPG": 25.2,
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "08/05/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.67",
+    "total": "$27.88",
+    "milage": "110,433",
+    "manualMPG": 33.9,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "08/16/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.67",
+    "total": "$28.76",
+    "milage": "110,704",
+    "manualMPG": 25.1,
+    "tripA": "--",
+    "totalGas": 10.8
+  },
+  {
+    "date": "08/27/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.63",
+    "total": "$27.51",
+    "milage": "110,970",
+    "manualMPG": 25.6,
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "09/08/2010",
+    "gasStation": "Wawa",
+    "costPerGallon": "$2.54",
+    "total": "$28.25",
+    "milage": "111,243",
+    "manualMPG": 24.6,
+    "tripA": "--",
+    "totalGas": 11.1
+  },
+  {
+    "date": "09/20/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.67",
+    "total": "$27.50",
+    "milage": "111,485",
+    "manualMPG": 23.5,
+    "tripA": "--",
+    "totalGas": 10.303
+  },
+  {
+    "date": "10/01/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.59",
+    "total": "$26.76",
+    "milage": "111,735",
+    "manualMPG": 24.3,
+    "tripA": "--",
+    "totalGas": 10.335
+  },
+  {
+    "date": "10/09/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.76",
+    "total": "$26.00",
+    "milage": "112,016",
+    "manualMPG": 29.6,
+    "tripA": "--",
+    "totalGas": 9.42
+  },
+  {
+    "date": "10/10/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.94",
+    "total": "$30.20",
+    "milage": "112,281",
+    "manualMPG": 25.8,
+    "tripA": "--",
+    "totalGas": 10.27
+  },
+  {
+    "date": "10/27/2019",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.91",
+    "total": "$31.00",
+    "milage": "112,610",
+    "manualMPG": 30.9,
+    "tripA": "--",
+    "totalGas": 10.656
+  },
+  {
+    "date": "11/11/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.90",
+    "total": "$31.54",
+    "milage": "112,887",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.78
+  },
+  {
+    "date": "11/23/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.99",
+    "total": "$30.05",
+    "milage": "113,150",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.05
+  },
+  {
+    "date": "12/13/2010",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.06",
+    "total": "$32.01",
+    "milage": "113,395",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.32
+  },
+  {
+    "date": "12/25/2010",
+    "gasStation": "Lukoil",
+    "costPerGallon": "$3.26",
+    "total": "",
+    "milage": "113,630",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.46
+  },
+  {
+    "date": "--",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "--",
+    "milage": "--",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": "--"
+  },
+  {
+    "date": "01/12/2011",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$3.22",
+    "total": "$33.80",
+    "milage": "114,141",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.49
+  },
+  {
+    "date": "01/31/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "--",
+    "total": "$31.10",
+    "milage": "--",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.75
+  },
+  {
+    "date": "02/12/2011",
+    "gasStation": "Wawa Gas",
+    "costPerGallon": "$3.12",
+    "total": "$32.32",
+    "milage": "114,622",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.36
+  },
+  {
+    "date": "02/24/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.29",
+    "total": "$33.10",
+    "milage": "114,909",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.06
+  },
+  {
+    "date": "03/08/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.53",
+    "total": "$36.15",
+    "milage": "115,167",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.24
+  },
+  {
+    "date": "03/17/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.57",
+    "total": "$36.00",
+    "milage": "115,485",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.08
+  },
+  {
+    "date": "03/24/2011",
+    "gasStation": "Lukoil",
+    "costPerGallon": "$3.80",
+    "total": "$38.90",
+    "milage": "115,759",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.24
+  },
+  {
+    "date": "04/01/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.58",
+    "total": "$34.25",
+    "milage": "116,028",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.59
+  },
+  {
+    "date": "04/12/2011",
+    "gasStation": "Seven Eleven",
+    "costPerGallon": "$3.70",
+    "total": "$36.20",
+    "milage": "116,316",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.79
+  },
+  {
+    "date": "04/25/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.90",
+    "total": "$20.00",
+    "milage": "116,578",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 5.13
+  },
+  {
+    "date": "04/29/2011",
+    "gasStation": "Shell",
+    "costPerGallon": "$4.26",
+    "total": "$44.35",
+    "milage": "116,730",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.41
+  },
+  {
+    "date": "05/12/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$4.03",
+    "total": "$20.00",
+    "milage": "117,036",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 4.96
+  },
+  {
+    "date": "05/21/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.96",
+    "total": "$20.00",
+    "milage": "117,205",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 5.05
+  },
+  {
+    "date": "06/11/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.82",
+    "total": "$39.90",
+    "milage": "117,366",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "06/11/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "--",
+    "total": "$39.52",
+    "milage": "117,691",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.34
+  },
+  {
+    "date": "06/28/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.66",
+    "total": "$36.75",
+    "milage": "117,957",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.93
+  },
+  {
+    "date": "07/08/2011",
+    "gasStation": "Citgo",
+    "costPerGallon": "$3.60",
+    "total": "$36.25",
+    "milage": "118,259",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.07
+  },
+  {
+    "date": "07/22/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.76",
+    "total": "$38.56",
+    "milage": "118,529",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.26
+  },
+  {
+    "date": "08/05/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.74",
+    "total": "$36.29",
+    "milage": "118,802",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "08/29/2011",
+    "gasStation": "Amoco",
+    "costPerGallon": "$3.74",
+    "total": "$37.55",
+    "milage": "119,082",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.04
+  },
+  {
+    "date": "09/16/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.64",
+    "total": "$37.55",
+    "milage": "119,341",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.47
+  },
+  {
+    "date": "10/04/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.52",
+    "total": "$34.76",
+    "milage": "119,598",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.87
+  },
+  {
+    "date": "10/20/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.48",
+    "total": "$35.00",
+    "milage": "119,856",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.06
+  },
+  {
+    "date": "11/14/2011",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$3.65",
+    "total": "$37.91",
+    "milage": "120,101",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.39
+  },
+  {
+    "date": "12/12/2011",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.36",
+    "total": "$34.05",
+    "milage": "120,359",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.14
+  },
+  {
+    "date": "01/06/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.36",
+    "total": "$34.90",
+    "milage": "120,599",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "01/19/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.48",
+    "total": "$34.66",
+    "milage": "120,865",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "01/28/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.48",
+    "total": "$35.00",
+    "milage": "121,148",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "02/06/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.52",
+    "total": "$36.01",
+    "milage": "121,454",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.02
+  },
+  {
+    "date": "02/20/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.62",
+    "total": "$37.37",
+    "milage": "122,052",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "02/28/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.74",
+    "total": "$36.77",
+    "milage": "122,366",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.83
+  },
+  {
+    "date": "03/07/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.72",
+    "total": "$30.00",
+    "milage": "122,659",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.1
+  },
+  {
+    "date": "03/14/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$4.00",
+    "total": "$41.43",
+    "milage": "123,544",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "04/26/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.94",
+    "total": "$39.56",
+    "milage": "123,893",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "05/07/2012",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$3.94",
+    "total": "$42.28",
+    "milage": "124,212",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.7
+  },
+  {
+    "date": "05/31/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.72",
+    "total": "$38.50",
+    "milage": 124507,
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "06/23/2012",
+    "gasStation": "Exxon",
+    "costPerGallon": "$3.60",
+    "total": "$34.91",
+    "milage": "124,787",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "07/13/2012",
+    "gasStation": "Amenan",
+    "costPerGallon": "$3.60",
+    "total": "$25.00",
+    "milage": "125,047",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 6.8
+  },
+  {
+    "date": "07/25/2012",
+    "gasStation": "Wawa",
+    "costPerGallon": "$3.55",
+    "total": "$35.45",
+    "milage": "125,240",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.99
+  },
+  {
+    "date": "--",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "--",
+    "milage": "--",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": "--"
+  },
+  {
+    "date": "09/05/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.74",
+    "total": "$37.09",
+    "milage": "125,914",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "09/19/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.90",
+    "total": "$39.58",
+    "milage": "126,189",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "10/12/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.88",
+    "total": "$40.83",
+    "milage": "126,481",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "11/01/2012",
+    "gasStation": "Lukoil",
+    "costPerGallon": "$3.70",
+    "total": "$37.90",
+    "milage": "127,025",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.25
+  },
+  {
+    "date": "11/14/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "--",
+    "total": "$15.00",
+    "milage": "127,299",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 4.2
+  },
+  {
+    "date": "11/23/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.62",
+    "total": "$37.10",
+    "milage": "127,414",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.25
+  },
+  {
+    "date": "12/15/2012",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.44",
+    "total": "$36.24",
+    "milage": "127,679",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.5
+  },
+  {
+    "date": "01/06/2013",
+    "gasStation": "Getty",
+    "costPerGallon": "$3.50",
+    "total": "$35.94",
+    "milage": "127,932",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "--",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "--",
+    "milage": "--",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": "--"
+  },
+  {
+    "date": "02/11/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.69",
+    "total": "$36.52",
+    "milage": "128,481",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.92
+  },
+  {
+    "date": "02/26/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.72",
+    "total": "$39.01",
+    "milage": "128,742",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.49
+  },
+  {
+    "date": "03/14/2013",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$3.67",
+    "total": "$38.31",
+    "milage": "129,015",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.44
+  },
+  {
+    "date": "03/29/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.60",
+    "total": "$36.49",
+    "milage": "129,294",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.13
+  },
+  {
+    "date": "04/21/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.36",
+    "total": "$34.39",
+    "milage": "129,589",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.23
+  },
+  {
+    "date": "05/10/2013",
+    "gasStation": "Seven Eleven",
+    "costPerGallon": "$3.44",
+    "total": "$20.00",
+    "milage": "129,887",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 5.8
+  },
+  {
+    "date": "05/23/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "--",
+    "total": "$35.05",
+    "milage": "130,044",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "06/01/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.54",
+    "total": "$36.16",
+    "milage": "130,350",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "06/14/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.50",
+    "total": "$31.00",
+    "milage": "130,642",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.8
+  },
+  {
+    "date": "07/23/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.80",
+    "total": "$38.12",
+    "milage": "131,138",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "08/12/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.58",
+    "total": "$35.80",
+    "milage": "131,409",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "08/18/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.59",
+    "total": "$16.84",
+    "milage": "131,544",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 4.6
+  },
+  {
+    "date": "08/27/2013",
+    "gasStation": "BP Amaco",
+    "costPerGallon": "$3.60",
+    "total": "$37.58",
+    "milage": "131,824",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.4
+  },
+  {
+    "date": "09/07/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.64",
+    "total": "$32.64",
+    "milage": "132,137",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.9
+  },
+  {
+    "date": "09/19/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.54",
+    "total": "$36.16",
+    "milage": "132,449",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "10/05/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.79",
+    "total": "$32.70",
+    "milage": "132,722",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.7
+  },
+  {
+    "date": "10/25/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.26",
+    "total": "$30.00",
+    "milage": "132,985",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.2
+  },
+  {
+    "date": "11/02/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.27",
+    "total": "$31.22",
+    "milage": "133,247",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "11/14/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.22",
+    "total": "$33.00",
+    "milage": "133,517",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.25
+  },
+  {
+    "date": "11/27/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.44",
+    "total": "$34.52",
+    "milage": "133,784",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "12/13/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.44",
+    "total": "$34.76",
+    "milage": "134,039",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.1
+  },
+  {
+    "date": "12/30/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.42",
+    "total": "$33.21",
+    "milage": "134,307",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "01/21/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.50",
+    "total": "$33.11",
+    "milage": "134,560",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.4
+  },
+  {
+    "date": "02/02/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.46",
+    "total": "$34.10",
+    "milage": "134,807",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "02/19/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.54",
+    "total": "$35.26",
+    "milage": "135,046",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.9
+  },
+  {
+    "date": "03/02/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.54",
+    "total": "$30.00",
+    "milage": "135,316",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.47
+  },
+  {
+    "date": "03/25/2013",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.60",
+    "total": "$34.01",
+    "milage": "135,571",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.45
+  },
+  {
+    "date": "04/05/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.60",
+    "total": "$33.76",
+    "milage": "135,835",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.38
+  },
+  {
+    "date": "04/18/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.64",
+    "total": "$25.00",
+    "milage": "136,118",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 6.87
+  },
+  {
+    "date": "04/27/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.78",
+    "total": "$35.00",
+    "milage": "136,296",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.2
+  },
+  {
+    "date": "05/08/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.76",
+    "total": "$33.00",
+    "milage": "136,564",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.8
+  },
+  {
+    "date": "05/23/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.70",
+    "total": "$34.11",
+    "milage": "136,840",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.22
+  },
+  {
+    "date": "06/08/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.68",
+    "total": "$15.51",
+    "milage": "137,117",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 4.21
+  },
+  {
+    "date": "06/15/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.64",
+    "total": "$34.79",
+    "milage": "137,246",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.5
+  },
+  {
+    "date": "07/02/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.74",
+    "total": "$24.46",
+    "milage": "13,776",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 6.5
+  },
+  {
+    "date": "07/28/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.68",
+    "total": "$15.30",
+    "milage": "137,983",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 4.2
+  },
+  {
+    "date": "08/08/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.50",
+    "total": "$33.33",
+    "milage": "138,097",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.52
+  },
+  {
+    "date": "08/23/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.36",
+    "total": "$25.00",
+    "milage": "138,328",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 7.4
+  },
+  {
+    "date": "09/03/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.40",
+    "total": "$34.55",
+    "milage": "138,587",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.2
+  },
+  {
+    "date": "09/21/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.40",
+    "total": "$33.50",
+    "milage": "138,883",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "10/04/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.45",
+    "total": "$30.00",
+    "milage": "139,140",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 8.7
+  },
+  {
+    "date": "10/17/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.24",
+    "total": "$33.43",
+    "milage": "139,412",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.3
+  },
+  {
+    "date": "11/01/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.10",
+    "total": "$31.00",
+    "milage": "139,699",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10
+  },
+  {
+    "date": "11/12/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$3.10",
+    "total": "$31.00",
+    "milage": "139,973",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.8
+  },
+  {
+    "date": "12/04/2014",
+    "gasStation": "Shell",
+    "costPerGallon": "$2.97",
+    "total": "$28.45",
+    "milage": "140,212",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.55
+  },
+  {
+    "date": "12/19/2014",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.68",
+    "total": "$27.65",
+    "milage": "140,494",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.32
+  },
+  {
+    "date": "12/30/2014",
+    "gasStation": "Exxon",
+    "costPerGallon": "$2.40",
+    "total": "$23.00",
+    "milage": "140,782",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.58
+  },
+  {
+    "date": "01/11/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.40",
+    "total": "$25.60",
+    "milage": "141,082",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.67
+  },
+  {
+    "date": "01/26/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.30",
+    "total": "$20.72",
+    "milage": "141,327",
+    "manualMPG": "--",
+    "tripA": 244.5,
+    "totalGas": 9.01
+  },
+  {
+    "date": "02/10/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.34",
+    "total": "$25.14",
+    "milage": "141,588",
+    "manualMPG": "--",
+    "tripA": 262.2,
+    "totalGas": 10.75
+  },
+  {
+    "date": "02/27/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.46",
+    "total": "$26.75",
+    "milage": "141,853",
+    "manualMPG": "--",
+    "tripA": 264.7,
+    "totalGas": 10.87
+  },
+  {
+    "date": "03/11/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.56",
+    "total": "$25.67",
+    "milage": 142135,
+    "manualMPG": "--",
+    "tripA": 282,
+    "totalGas": 10.03
+  },
+  {
+    "date": "03/22/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.50",
+    "total": "$24.58",
+    "milage": "142,409",
+    "manualMPG": "--",
+    "tripA": 274.2,
+    "totalGas": 9.83
+  },
+  {
+    "date": "04/08/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.44",
+    "total": "$17.37",
+    "milage": "142,677",
+    "manualMPG": "--",
+    "tripA": 267.9,
+    "totalGas": 7.24
+  },
+  {
+    "date": "04/13/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.44",
+    "total": "$22.20",
+    "milage": "142,861",
+    "manualMPG": "--",
+    "tripA": 183.5,
+    "totalGas": 9.1
+  },
+  {
+    "date": "04/27/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.72",
+    "total": "$27.65",
+    "milage": "143,133",
+    "manualMPG": "--",
+    "tripA": 271.5,
+    "totalGas": 10.2
+  },
+  {
+    "date": "05/11/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.84",
+    "total": "$25.45",
+    "milage": "143,385",
+    "manualMPG": "--",
+    "tripA": 282.1,
+    "totalGas": 8.96
+  },
+  {
+    "date": "05/28/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.84",
+    "total": "$28.67",
+    "milage": "143,667",
+    "manualMPG": "--",
+    "tripA": 282.1,
+    "totalGas": 10.09
+  },
+  {
+    "date": "06/13/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.90",
+    "total": "$28.82",
+    "milage": "142,931",
+    "manualMPG": "--",
+    "tripA": 263.8,
+    "totalGas": 9.94
+  },
+  {
+    "date": "06/24/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.94",
+    "total": "$28.54",
+    "milage": "144,189",
+    "manualMPG": "--",
+    "tripA": 258.3,
+    "totalGas": 9.7
+  },
+  {
+    "date": "07/08/2015",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.88",
+    "total": "$30.00",
+    "milage": "144,535",
+    "manualMPG": "--",
+    "tripA": 345.5,
+    "totalGas": 10.42
+  },
+  {
+    "date": "07/17/2015",
+    "gasStation": "Wawa",
+    "costPerGallon": "$2.52",
+    "total": "--",
+    "milage": "144,800",
+    "manualMPG": "--",
+    "tripA": "~286.00",
+    "totalGas": "--"
+  },
+  {
+    "date": "07/31/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.70",
+    "total": "$23.07",
+    "milage": "145,061",
+    "manualMPG": "--",
+    "tripA": 280,
+    "totalGas": 8.55
+  },
+  {
+    "date": "08/14/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.60",
+    "total": "$25.67",
+    "milage": "145,346",
+    "manualMPG": "--",
+    "tripA": 284.4,
+    "totalGas": 9.88
+  },
+  {
+    "date": "08/29/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.44",
+    "total": "$24.70",
+    "milage": "145,623",
+    "manualMPG": "--",
+    "tripA": 277.2,
+    "totalGas": 10.12
+  },
+  {
+    "date": "--",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "--",
+    "milage": "--",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": "--"
+  },
+  {
+    "date": "09/25/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.20",
+    "total": "$19.75",
+    "milage": "146,102",
+    "manualMPG": "--",
+    "tripA": 479,
+    "totalGas": 8.819
+  },
+  {
+    "date": "10/11/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.24",
+    "total": "$22.44",
+    "milage": "146,356",
+    "manualMPG": "--",
+    "tripA": 254.1,
+    "totalGas": 10.021
+  },
+  {
+    "date": "10/29/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.24",
+    "total": "$23.36",
+    "milage": "146,620",
+    "manualMPG": "--",
+    "tripA": 261.1,
+    "totalGas": 10.43
+  },
+  {
+    "date": "11/13/2015",
+    "gasStation": "Lukoil",
+    "costPerGallon": "$2.58",
+    "total": "$24.76",
+    "milage": "146,900",
+    "manualMPG": "--",
+    "tripA": 280.8,
+    "totalGas": 9.6
+  },
+  {
+    "date": "11/27/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.28",
+    "total": "--",
+    "milage": "147,158",
+    "manualMPG": "--",
+    "tripA": 257.1,
+    "totalGas": 10.52
+  },
+  {
+    "date": "12/11/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.24",
+    "total": "$21.75",
+    "milage": "147,411",
+    "manualMPG": "--",
+    "tripA": 253.3,
+    "totalGas": 9.71
+  },
+  {
+    "date": "12/23/2015",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.18",
+    "total": "$20.30",
+    "milage": "147,655",
+    "manualMPG": "--",
+    "tripA": 244.1,
+    "totalGas": 9.3
+  },
+  {
+    "date": "01/06/2016",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.14",
+    "total": "$22.33",
+    "milage": "147,911",
+    "manualMPG": "--",
+    "tripA": 255.6,
+    "totalGas": 10.43
+  },
+  {
+    "date": "02/09/2016",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.94",
+    "total": "$20.25",
+    "milage": "148,148",
+    "manualMPG": "--",
+    "tripA": 237.4,
+    "totalGas": 10.45
+  },
+  {
+    "date": "02/25/2016",
+    "gasStation": "Liberty",
+    "costPerGallon": "$1.84",
+    "total": "$18.75",
+    "milage": "148,398",
+    "manualMPG": "--",
+    "tripA": 250.1,
+    "totalGas": 10.19
+  },
+  {
+    "date": "03/14/2016",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.00",
+    "total": "$20.32",
+    "milage": "148,670",
+    "manualMPG": "--",
+    "tripA": 271.7,
+    "totalGas": 10.16
+  },
+  {
+    "date": "04/01/2016",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.14",
+    "total": "$21.92",
+    "milage": "148,943",
+    "manualMPG": "--",
+    "tripA": 273.3,
+    "totalGas": 10.24
+  },
+  {
+    "date": "04/27/2016",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.36",
+    "total": "$24.23",
+    "milage": "149,204",
+    "manualMPG": "--",
+    "tripA": 260.5,
+    "totalGas": 10.27
+  },
+  {
+    "date": "05/18/2016",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.40",
+    "total": "$24.52",
+    "milage": "149,499",
+    "manualMPG": "--",
+    "tripA": 294.8,
+    "totalGas": 10.22
+  },
+  {
+    "date": "06/06/2016",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.48",
+    "total": "$24.17",
+    "milage": "149,778",
+    "manualMPG": "--",
+    "tripA": 278.7,
+    "totalGas": 9.71
+  },
+  {
+    "date": "06/22/2016",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.40",
+    "total": "$24.01",
+    "milage": "150,060",
+    "manualMPG": "--",
+    "tripA": 282.2,
+    "totalGas": 10
+  },
+  {
+    "date": "07/18/2016",
+    "gasStation": "Lukoil",
+    "costPerGallon": "$2.40",
+    "total": "$24.87",
+    "milage": "150,347",
+    "manualMPG": "--",
+    "tripA": 286.8,
+    "totalGas": 10.39
+  },
+  {
+    "date": "08/05/2016",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$21.64",
+    "milage": "150,614",
+    "manualMPG": "--",
+    "tripA": 267.6,
+    "totalGas": 10.117
+  },
+  {
+    "date": "08/15/2016",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$22.08",
+    "milage": "150,880",
+    "manualMPG": "--",
+    "tripA": 265.9,
+    "totalGas": 10.043
+  },
+  {
+    "date": "09/03/2016",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$22.87",
+    "milage": "151,204",
+    "manualMPG": "--",
+    "tripA": 324.1,
+    "totalGas": 10.215
+  },
+  {
+    "date": "09/20/2016",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$23.71",
+    "milage": "151,480",
+    "manualMPG": "--",
+    "tripA": 275.5,
+    "totalGas": 10.59
+  },
+  {
+    "date": "10/12/2016",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$23.26",
+    "milage": "151,756",
+    "manualMPG": "--",
+    "tripA": 275.6,
+    "totalGas": 10.11
+  },
+  {
+    "date": "10/31/2016",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$23.81",
+    "milage": "152,044",
+    "manualMPG": "--",
+    "tripA": 288.6,
+    "totalGas": 10.26
+  },
+  {
+    "date": "11/16/2016",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$21.09",
+    "milage": "152,294",
+    "manualMPG": "--",
+    "tripA": 249.3,
+    "totalGas": 9.17
+  },
+  {
+    "date": "11/26/2016",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$22.23",
+    "milage": "152,554",
+    "manualMPG": "--",
+    "tripA": 260.1,
+    "totalGas": 9.84
+  },
+  {
+    "date": "12/--/----",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$23.44",
+    "milage": "152,817",
+    "manualMPG": "--",
+    "tripA": 263.3,
+    "totalGas": 9.77
+  },
+  {
+    "date": "12/25/2016",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$23.94",
+    "milage": "153,084",
+    "manualMPG": "--",
+    "tripA": 266.8,
+    "totalGas": 9.98
+  },
+  {
+    "date": "01/10/2017",
+    "gasStation": "--",
+    "costPerGallon": "--",
+    "total": "$22.31",
+    "milage": "153,332",
+    "manualMPG": "--",
+    "tripA": 248.1,
+    "totalGas": 8.6
+  },
+  {
+    "date": "01/17/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.58",
+    "total": "$24.12",
+    "milage": "153,625",
+    "manualMPG": "--",
+    "tripA": 292.4,
+    "totalGas": 9.35
+  },
+  {
+    "date": "01/23/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.54",
+    "total": "$23.84",
+    "milage": "153,925",
+    "manualMPG": "--",
+    "tripA": 300.5,
+    "totalGas": 9.39
+  },
+  {
+    "date": "01/30/2017",
+    "gasStation": "BP",
+    "costPerGallon": "$2.68",
+    "total": "$26.80",
+    "milage": "154,245",
+    "manualMPG": "--",
+    "tripA": 320.1,
+    "totalGas": 10
+  },
+  {
+    "date": "02/04/2017",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.44",
+    "total": "$24.31",
+    "milage": "154,563",
+    "manualMPG": "--",
+    "tripA": 317.2,
+    "totalGas": 9.97
+  },
+  {
+    "date": "02/11/2017",
+    "gasStation": "Sunoco",
+    "costPerGallon": "$2.60",
+    "total": "$26.21",
+    "milage": "154,890",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.08
+  },
+  {
+    "date": "02/19/2017",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.42",
+    "total": "$24.38",
+    "milage": "155,225",
+    "manualMPG": "--",
+    "tripA": 346.5,
+    "totalGas": 10.08
+  },
+  {
+    "date": "02/27/2017",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.40",
+    "total": "$25.46",
+    "milage": "155,571",
+    "manualMPG": "--",
+    "tripA": 346.5,
+    "totalGas": 10.61
+  },
+  {
+    "date": "03/06/2017",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.40",
+    "total": "$22.16",
+    "milage": "155,908",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.25
+  },
+  {
+    "date": "03/11/2017",
+    "gasStation": "Liberty",
+    "costPerGallon": "$2.40",
+    "total": "$19.85",
+    "milage": "156,197",
+    "manualMPG": "--",
+    "tripA": "*625.7",
+    "totalGas": 8.28
+  },
+  {
+    "date": "03/08/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.41",
+    "total": "$25.53",
+    "milage": "156,535",
+    "manualMPG": "--",
+    "tripA": 337.8,
+    "totalGas": 10.55
+  },
+  {
+    "date": "03/26/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.40",
+    "total": "$6.56",
+    "milage": "154,885",
+    "manualMPG": "--",
+    "tripA": 350.5,
+    "totalGas": 2.73
+  },
+  {
+    "date": "03/27/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.40",
+    "total": "$21.41",
+    "milage": "156,953",
+    "manualMPG": "--",
+    "tripA": 67.6,
+    "totalGas": 8.92
+  },
+  {
+    "date": "04/04/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.40",
+    "total": "$21.15",
+    "milage": "157,248",
+    "manualMPG": "--",
+    "tripA": 294.8,
+    "totalGas": 8.82
+  },
+  {
+    "date": "04/09/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.60",
+    "total": "$25.03",
+    "milage": "157,580",
+    "manualMPG": "--",
+    "tripA": 332.5,
+    "totalGas": 9.63
+  },
+  {
+    "date": "04/14/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.62",
+    "total": "$18.70",
+    "milage": "157,913",
+    "manualMPG": "--",
+    "tripA": 332.5,
+    "totalGas": 7.14
+  },
+  {
+    "date": "04/19/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.62",
+    "total": "$26.04",
+    "milage": "158,186",
+    "manualMPG": "--",
+    "tripA": 272.6,
+    "totalGas": 9.94
+  },
+  {
+    "date": "04/25/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.60",
+    "total": "$25.43",
+    "milage": "158,530",
+    "manualMPG": "--",
+    "tripA": 344.4,
+    "totalGas": 9.78
+  },
+  {
+    "date": "05/01/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.64",
+    "total": "$27.27",
+    "milage": "158,847",
+    "manualMPG": "--",
+    "tripA": 316.9,
+    "totalGas": 10.33
+  },
+  {
+    "date": "05/09/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.64",
+    "total": "$26.15",
+    "milage": "159,142",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 9.91
+  },
+  {
+    "date": "05/19/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.50",
+    "total": "$25.72",
+    "milage": "159,461",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 10.29
+  },
+  {
+    "date": "05/27/2017",
+    "gasStation": "--",
+    "costPerGallon": "$2.84",
+    "total": "$18.67",
+    "milage": "159,762",
+    "manualMPG": "--",
+    "tripA": "--",
+    "totalGas": 6.57
+  }
+]
