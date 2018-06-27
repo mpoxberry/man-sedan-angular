@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { Car } from './car';
+
 
 @Component({
   selector: 'app-root',
@@ -7,4 +9,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+
+  manSedan: Car = {
+    name: 'Corolla',
+    gasTankCapacity: 13.2,
+    horsePower: 120,
+    make: 'Toyota',
+    year: '1998'
+  };
+  
+  constructor() {}
 }
