@@ -1,11 +1,10 @@
 import { Component } from '@angular/core';
 import { Car } from './car';
 
-// test
-import { HttpClient } from '@angular/common/http';
+import { CalculateService } from './calculate.service';
 
-declare var require: any;
-var json = require('./corolla-data.json');
+// test
+
 
 @Component({
   selector: 'app-root',
@@ -22,17 +21,31 @@ export class AppComponent {
     make: 'Toyota',
     year: '1998'
   };
-  
-  constructor(private httpClient: HttpClient) {
-    console.log(this.count());
+
+  records: any;
+
+  constructor(private calculateService: CalculateService) {
+    this.setRecords();
+
+    // console.log(this.records);
+
+    // console.log(this.records[0]);
+
+    // console.log('Count: ' + this.count(this.records));
+
   }
 
-  ngOnInit() {}
+  ngOnInit() { }
 
-  public count():number {
+  setRecords(): void {
+    this.calculateService.getData()
+      .subscribe(records => this.records = records);
+  }
+
+  public count(records: any): number {
     let n: number = 0;
-    let a: [any] = json;
-    a.forEach(element => {
+
+    records.forEach(e => {
       n++;
     });
     return n;
