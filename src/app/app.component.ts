@@ -25,7 +25,7 @@ export class AppComponent {
   records: any;
 
   constructor(private calculateService: CalculateService) {
-    this.setRecords();
+    // this.setRecords();
 
     // console.log(this.records);
 
@@ -37,17 +37,17 @@ export class AppComponent {
 
   ngOnInit() { }
 
-  setRecords(): void {
-    this.calculateService.getData()
-      .subscribe(records => this.records = records);
-  }
+  // setRecords(): void {
+  //   this.calculateService.getData()
+  //     .subscribe(records => this.records = records);
+  // }
 
-  public count(records: any): number {
-    let n: number = 0;
+  // public count(records: any): number {
+  //   let n: number = 0;
 
-    records.forEach(e => {
-      n++;
-    });
-    return n;
-  }
+  //   records.forEach(e => {
+  //     n++;
+  //   });
+  //   return n;
+  // }
 }

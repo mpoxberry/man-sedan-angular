@@ -15,7 +15,7 @@ import { CalculateService } from './calculate.service';
     ChartModule,
     HttpClientModule
   ],
-  providers: [],
+  providers: [CalculateService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

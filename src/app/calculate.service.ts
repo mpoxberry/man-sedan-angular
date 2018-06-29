@@ -3,6 +3,7 @@ import { HttpClient } from '@angular/common/http';
 
 import { Record } from './car';
 import { Observable, of } from 'rxjs';
+import { map } from 'rxjs/operators';
 
 // test
 // declare var require: any;
@@ -15,13 +16,10 @@ export class CalculateService {
   constructor(private http: HttpClient) { }
 
   getData(): Observable<any> {
-    console.log(this.http.get('./assets/corolla-data.json').pipe(res => res));
+    console.log(this.http.get('./assets/corolla-data.json'));
 
-    return this.http.get('./assets/corolla-data.json').pipe(res => res);
-
-  // getRecords(): [Record] {
-  //   let r: [Record] = json;
-  //   return r;
+    let o : Observable<any>;
+    return o;
   }
 
 }
