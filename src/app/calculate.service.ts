@@ -15,13 +15,13 @@ export class CalculateService {
   constructor(private http: HttpClient) { }
 
   getData(): Observable<any> {
-    console.log(this.http.get('./assets/corolla-data.json').pipe(res => { return res }));
-    return this.http.get('./assets/corolla-data.json');
-  }
+    console.log(this.http.get('./assets/corolla-data.json').pipe(res => res));
+
+    return this.http.get('./assets/corolla-data.json').pipe(res => res);
 
   // getRecords(): [Record] {
   //   let r: [Record] = json;
   //   return r;
-  // }
+  }
 
 }

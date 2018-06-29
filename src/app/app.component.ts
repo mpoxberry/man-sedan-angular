@@ -3,12 +3,8 @@ import { Car, Entry } from './car';
 
 import { CalculateService } from './calculate.service';
 
-<<<<<<< HEAD
-// import { corrola-data } from './corrla-data.json';
-=======
 // test
 
->>>>>>> work
 
 @Component({
   selector: 'app-root',
