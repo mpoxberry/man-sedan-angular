@@ -3,7 +3,12 @@ import { Car, Entry } from './car';
 
 import { CalculateService } from './calculate.service';
 
+<<<<<<< HEAD
 // import { corrola-data } from './corrla-data.json';
+=======
+// test
+
+>>>>>>> work
 
 @Component({
   selector: 'app-root',
@@ -21,14 +26,32 @@ export class AppComponent {
     year: '1998'
   };
 
+  records: any;
 
   constructor(private calculateService: CalculateService) {
-    console.log(this.calculateService.getData());
+    this.setRecords();
+
+    // console.log(this.records);
+
+    // console.log(this.records[0]);
+
+    // console.log('Count: ' + this.count(this.records));
+
   }
 
-  // console.log(this.calculateService.getData());
+  ngOnInit() { }
 
-  public getCount(entries: [any]) {
-    return this.calculateService.count(entries);
+  setRecords(): void {
+    this.calculateService.getData()
+      .subscribe(records => this.records = records);
+  }
+
+  public count(records: any): number {
+    let n: number = 0;
+
+    records.forEach(e => {
+      n++;
+    });
+    return n;
   }
 }

@@ -18,3 +18,14 @@ export class Entry {
     tripA?: number;
     totalGas?: number;
 }
+
+export class Record {
+    date: string;
+    gasStation: string;
+    costPerGallon: string;
+    total: string;
+    milage: number;
+    manualMPG: number;
+    tripA: number;
+    totalGas: number;
+}

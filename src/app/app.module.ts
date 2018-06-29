@@ -12,10 +12,10 @@ import { CalculateService } from './calculate.service';
   ],
   imports: [
     BrowserModule,
-    HttpClientModule,
-    ChartModule
+    ChartModule,
+    HttpClientModule
   ],
-  providers: [CalculateService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
