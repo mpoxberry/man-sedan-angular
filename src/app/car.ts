@@ -12,8 +12,8 @@ export class Entry {
     date?: Date;
     gasStation?: string;
     costPerGallon?: number;
-    total?: string;
-    milage?: number;
+    totalPurchased?: string;
+    mileage?: number;
     manualMPG?: number;
     tripA?: number;
     totalGas?: number;
